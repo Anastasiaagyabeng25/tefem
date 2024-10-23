@@ -1,0 +1,21 @@
+.program{
+  
+  border-radius: 10px solid ;
+  background: fff3ff;
+  padding: 20px 12px;
+  margin-bottom: 5%;
+  box-sizing: border-box;
+  background-color: #fff3ff;
+
+
+
+}
+
+.program p{
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;  }
+
+
+  <p>“Eduford is home to me not because of the fancy <br> buildings like Healy Hall, or its prestigious <br> reputation, but rather because of the university’s <br> care for the whole person as each of us attempts to  <br>live our lives for others.”</p>
+  
